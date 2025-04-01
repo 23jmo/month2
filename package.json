@@ -1,0 +1,11 @@
+{
+  "name": "flower-animation",
+  "version": "1.0.0",
+  "description": "Flower animation for anniversary",
+  "scripts": {
+    "sass": "sass --watch style.scss:style.css"
+  },
+  "devDependencies": {
+    "sass": "^1.69.7"
+  }
+}
